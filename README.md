@@ -1,1 +1,0 @@
-# outside-ir35-contract
